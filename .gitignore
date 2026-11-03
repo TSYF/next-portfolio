@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.enjoy-logs
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
